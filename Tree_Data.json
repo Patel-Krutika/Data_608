@@ -1,0 +1,1000 @@
+[{"health":"Fair","steward":"1or2","spc_common":"American beech","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"American beech","boroname":"Brooklyn","count_tree_id":"10"}
+,{"health":"Fair","steward":"1or2","spc_common":"American beech","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"American beech","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"American elm","boroname":"Bronx","count_tree_id":"64"}
+,{"health":"Fair","steward":"1or2","spc_common":"American elm","boroname":"Brooklyn","count_tree_id":"123"}
+,{"health":"Fair","steward":"1or2","spc_common":"American elm","boroname":"Manhattan","count_tree_id":"85"}
+,{"health":"Fair","steward":"1or2","spc_common":"American elm","boroname":"Queens","count_tree_id":"58"}
+,{"health":"Fair","steward":"1or2","spc_common":"American elm","boroname":"Staten Island","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"American hophornbeam","boroname":"Bronx","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"American hophornbeam","boroname":"Brooklyn","count_tree_id":"29"}
+,{"health":"Fair","steward":"1or2","spc_common":"American hophornbeam","boroname":"Manhattan","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"American hophornbeam","boroname":"Queens","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"American hophornbeam","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"American hornbeam","boroname":"Bronx","count_tree_id":"18"}
+,{"health":"Fair","steward":"1or2","spc_common":"American hornbeam","boroname":"Brooklyn","count_tree_id":"21"}
+,{"health":"Fair","steward":"1or2","spc_common":"American hornbeam","boroname":"Manhattan","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"American hornbeam","boroname":"Queens","count_tree_id":"25"}
+,{"health":"Fair","steward":"1or2","spc_common":"American hornbeam","boroname":"Staten Island","count_tree_id":"10"}
+,{"health":"Fair","steward":"1or2","spc_common":"American larch","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"American linden","boroname":"Bronx","count_tree_id":"61"}
+,{"health":"Fair","steward":"1or2","spc_common":"American linden","boroname":"Brooklyn","count_tree_id":"152"}
+,{"health":"Fair","steward":"1or2","spc_common":"American linden","boroname":"Manhattan","count_tree_id":"173"}
+,{"health":"Fair","steward":"1or2","spc_common":"American linden","boroname":"Queens","count_tree_id":"220"}
+,{"health":"Fair","steward":"1or2","spc_common":"American linden","boroname":"Staten Island","count_tree_id":"10"}
+,{"health":"Fair","steward":"1or2","spc_common":"Amur cork tree","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Amur cork tree","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Amur cork tree","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Amur maackia","boroname":"Bronx","count_tree_id":"16"}
+,{"health":"Fair","steward":"1or2","spc_common":"Amur maackia","boroname":"Brooklyn","count_tree_id":"41"}
+,{"health":"Fair","steward":"1or2","spc_common":"Amur maackia","boroname":"Manhattan","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"Amur maackia","boroname":"Queens","count_tree_id":"18"}
+,{"health":"Fair","steward":"1or2","spc_common":"Amur maackia","boroname":"Staten Island","count_tree_id":"11"}
+,{"health":"Fair","steward":"1or2","spc_common":"Amur maple","boroname":"Bronx","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"Amur maple","boroname":"Brooklyn","count_tree_id":"19"}
+,{"health":"Fair","steward":"1or2","spc_common":"Amur maple","boroname":"Manhattan","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"Amur maple","boroname":"Queens","count_tree_id":"29"}
+,{"health":"Fair","steward":"1or2","spc_common":"Amur maple","boroname":"Staten Island","count_tree_id":"13"}
+,{"health":"Fair","steward":"1or2","spc_common":"arborvitae","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"arborvitae","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"arborvitae","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"ash","boroname":"Bronx","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"ash","boroname":"Brooklyn","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"ash","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"ash","boroname":"Queens","count_tree_id":"15"}
+,{"health":"Fair","steward":"1or2","spc_common":"ash","boroname":"Staten Island","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"Atlantic white cedar","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"Atlantic white cedar","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"Atlantic white cedar","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"Atlantic white cedar","boroname":"Staten Island","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"Atlas cedar","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Atlas cedar","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"bald cypress","boroname":"Bronx","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"bald cypress","boroname":"Brooklyn","count_tree_id":"36"}
+,{"health":"Fair","steward":"1or2","spc_common":"bald cypress","boroname":"Manhattan","count_tree_id":"10"}
+,{"health":"Fair","steward":"1or2","spc_common":"bald cypress","boroname":"Queens","count_tree_id":"10"}
+,{"health":"Fair","steward":"1or2","spc_common":"bald cypress","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"bigtooth aspen","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"bigtooth aspen","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"bigtooth aspen","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"black cherry","boroname":"Brooklyn","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"black cherry","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"black cherry","boroname":"Queens","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"black cherry","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"blackgum","boroname":"Bronx","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"blackgum","boroname":"Brooklyn","count_tree_id":"11"}
+,{"health":"Fair","steward":"1or2","spc_common":"blackgum","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"blackgum","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"blackgum","boroname":"Staten Island","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"black locust","boroname":"Bronx","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"black locust","boroname":"Brooklyn","count_tree_id":"26"}
+,{"health":"Fair","steward":"1or2","spc_common":"black locust","boroname":"Manhattan","count_tree_id":"20"}
+,{"health":"Fair","steward":"1or2","spc_common":"black locust","boroname":"Queens","count_tree_id":"18"}
+,{"health":"Fair","steward":"1or2","spc_common":"black locust","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"black maple","boroname":"Brooklyn","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"black maple","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"black oak","boroname":"Bronx","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"black oak","boroname":"Brooklyn","count_tree_id":"17"}
+,{"health":"Fair","steward":"1or2","spc_common":"black oak","boroname":"Manhattan","count_tree_id":"14"}
+,{"health":"Fair","steward":"1or2","spc_common":"black oak","boroname":"Queens","count_tree_id":"10"}
+,{"health":"Fair","steward":"1or2","spc_common":"black oak","boroname":"Staten Island","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"black pine","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"black pine","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"black walnut","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"black walnut","boroname":"Brooklyn","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"black walnut","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"black walnut","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"blue spruce","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"boxelder","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"boxelder","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"bur oak","boroname":"Bronx","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"bur oak","boroname":"Brooklyn","count_tree_id":"10"}
+,{"health":"Fair","steward":"1or2","spc_common":"bur oak","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"bur oak","boroname":"Queens","count_tree_id":"15"}
+,{"health":"Fair","steward":"1or2","spc_common":"Callery pear","boroname":"Bronx","count_tree_id":"93"}
+,{"health":"Fair","steward":"1or2","spc_common":"Callery pear","boroname":"Brooklyn","count_tree_id":"310"}
+,{"health":"Fair","steward":"1or2","spc_common":"Callery pear","boroname":"Manhattan","count_tree_id":"658"}
+,{"health":"Fair","steward":"1or2","spc_common":"Callery pear","boroname":"Queens","count_tree_id":"429"}
+,{"health":"Fair","steward":"1or2","spc_common":"Callery pear","boroname":"Staten Island","count_tree_id":"719"}
+,{"health":"Fair","steward":"1or2","spc_common":"catalpa","boroname":"Bronx","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"catalpa","boroname":"Brooklyn","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"catalpa","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"catalpa","boroname":"Queens","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"cherry","boroname":"Bronx","count_tree_id":"159"}
+,{"health":"Fair","steward":"1or2","spc_common":"cherry","boroname":"Brooklyn","count_tree_id":"296"}
+,{"health":"Fair","steward":"1or2","spc_common":"cherry","boroname":"Manhattan","count_tree_id":"54"}
+,{"health":"Fair","steward":"1or2","spc_common":"cherry","boroname":"Queens","count_tree_id":"314"}
+,{"health":"Fair","steward":"1or2","spc_common":"cherry","boroname":"Staten Island","count_tree_id":"182"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese chestnut","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese chestnut","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese chestnut","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese elm","boroname":"Bronx","count_tree_id":"39"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese elm","boroname":"Brooklyn","count_tree_id":"85"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese elm","boroname":"Manhattan","count_tree_id":"47"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese elm","boroname":"Queens","count_tree_id":"36"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese elm","boroname":"Staten Island","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese fringetree","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese fringetree","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese fringetree","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese tree lilac","boroname":"Bronx","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese tree lilac","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese tree lilac","boroname":"Queens","count_tree_id":"11"}
+,{"health":"Fair","steward":"1or2","spc_common":"Chinese tree lilac","boroname":"Staten Island","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"cockspur hawthorn","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"cockspur hawthorn","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"cockspur hawthorn","boroname":"Queens","count_tree_id":"13"}
+,{"health":"Fair","steward":"1or2","spc_common":"cockspur hawthorn","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"common hackberry","boroname":"Bronx","count_tree_id":"23"}
+,{"health":"Fair","steward":"1or2","spc_common":"common hackberry","boroname":"Brooklyn","count_tree_id":"22"}
+,{"health":"Fair","steward":"1or2","spc_common":"common hackberry","boroname":"Manhattan","count_tree_id":"14"}
+,{"health":"Fair","steward":"1or2","spc_common":"common hackberry","boroname":"Queens","count_tree_id":"18"}
+,{"health":"Fair","steward":"1or2","spc_common":"common hackberry","boroname":"Staten Island","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"Cornelian cherry","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"Cornelian cherry","boroname":"Brooklyn","count_tree_id":"25"}
+,{"health":"Fair","steward":"1or2","spc_common":"Cornelian cherry","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Cornelian cherry","boroname":"Queens","count_tree_id":"20"}
+,{"health":"Fair","steward":"1or2","spc_common":"Cornelian cherry","boroname":"Staten Island","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"crab apple","boroname":"Bronx","count_tree_id":"13"}
+,{"health":"Fair","steward":"1or2","spc_common":"crab apple","boroname":"Brooklyn","count_tree_id":"22"}
+,{"health":"Fair","steward":"1or2","spc_common":"crab apple","boroname":"Manhattan","count_tree_id":"13"}
+,{"health":"Fair","steward":"1or2","spc_common":"crab apple","boroname":"Queens","count_tree_id":"41"}
+,{"health":"Fair","steward":"1or2","spc_common":"crab apple","boroname":"Staten Island","count_tree_id":"20"}
+,{"health":"Fair","steward":"1or2","spc_common":"crepe myrtle","boroname":"Bronx","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"crepe myrtle","boroname":"Brooklyn","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"crepe myrtle","boroname":"Queens","count_tree_id":"10"}
+,{"health":"Fair","steward":"1or2","spc_common":"crepe myrtle","boroname":"Staten Island","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"crimson king maple","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"crimson king maple","boroname":"Brooklyn","count_tree_id":"49"}
+,{"health":"Fair","steward":"1or2","spc_common":"crimson king maple","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"crimson king maple","boroname":"Queens","count_tree_id":"72"}
+,{"health":"Fair","steward":"1or2","spc_common":"crimson king maple","boroname":"Staten Island","count_tree_id":"55"}
+,{"health":"Fair","steward":"1or2","spc_common":"cucumber magnolia","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"cucumber magnolia","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"dawn redwood","boroname":"Bronx","count_tree_id":"15"}
+,{"health":"Fair","steward":"1or2","spc_common":"dawn redwood","boroname":"Brooklyn","count_tree_id":"63"}
+,{"health":"Fair","steward":"1or2","spc_common":"dawn redwood","boroname":"Manhattan","count_tree_id":"17"}
+,{"health":"Fair","steward":"1or2","spc_common":"dawn redwood","boroname":"Queens","count_tree_id":"25"}
+,{"health":"Fair","steward":"1or2","spc_common":"dawn redwood","boroname":"Staten Island","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"Douglas-fir","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"Douglas-fir","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"Douglas-fir","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern cottonwood","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern cottonwood","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern cottonwood","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern cottonwood","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern hemlock","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern hemlock","boroname":"Brooklyn","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern hemlock","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern hemlock","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern redbud","boroname":"Bronx","count_tree_id":"25"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern redbud","boroname":"Brooklyn","count_tree_id":"59"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern redbud","boroname":"Manhattan","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern redbud","boroname":"Queens","count_tree_id":"51"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern redbud","boroname":"Staten Island","count_tree_id":"39"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern redcedar","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern redcedar","boroname":"Brooklyn","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern redcedar","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern redcedar","boroname":"Queens","count_tree_id":"15"}
+,{"health":"Fair","steward":"1or2","spc_common":"eastern redcedar","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"empress tree","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"empress tree","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"empress tree","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"empress tree","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"English oak","boroname":"Bronx","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"English oak","boroname":"Brooklyn","count_tree_id":"21"}
+,{"health":"Fair","steward":"1or2","spc_common":"English oak","boroname":"Manhattan","count_tree_id":"12"}
+,{"health":"Fair","steward":"1or2","spc_common":"English oak","boroname":"Queens","count_tree_id":"21"}
+,{"health":"Fair","steward":"1or2","spc_common":"English oak","boroname":"Staten Island","count_tree_id":"15"}
+,{"health":"Fair","steward":"1or2","spc_common":"European beech","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"European beech","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"European beech","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"European hornbeam","boroname":"Bronx","count_tree_id":"27"}
+,{"health":"Fair","steward":"1or2","spc_common":"European hornbeam","boroname":"Brooklyn","count_tree_id":"34"}
+,{"health":"Fair","steward":"1or2","spc_common":"European hornbeam","boroname":"Manhattan","count_tree_id":"16"}
+,{"health":"Fair","steward":"1or2","spc_common":"European hornbeam","boroname":"Queens","count_tree_id":"19"}
+,{"health":"Fair","steward":"1or2","spc_common":"European hornbeam","boroname":"Staten Island","count_tree_id":"10"}
+,{"health":"Fair","steward":"1or2","spc_common":"false cypress","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"false cypress","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"flowering dogwood","boroname":"Bronx","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"flowering dogwood","boroname":"Brooklyn","count_tree_id":"20"}
+,{"health":"Fair","steward":"1or2","spc_common":"flowering dogwood","boroname":"Manhattan","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"flowering dogwood","boroname":"Queens","count_tree_id":"42"}
+,{"health":"Fair","steward":"1or2","spc_common":"flowering dogwood","boroname":"Staten Island","count_tree_id":"12"}
+,{"health":"Fair","steward":"1or2","spc_common":"ginkgo","boroname":"Bronx","count_tree_id":"67"}
+,{"health":"Fair","steward":"1or2","spc_common":"ginkgo","boroname":"Brooklyn","count_tree_id":"184"}
+,{"health":"Fair","steward":"1or2","spc_common":"ginkgo","boroname":"Manhattan","count_tree_id":"356"}
+,{"health":"Fair","steward":"1or2","spc_common":"ginkgo","boroname":"Queens","count_tree_id":"165"}
+,{"health":"Fair","steward":"1or2","spc_common":"ginkgo","boroname":"Staten Island","count_tree_id":"33"}
+,{"health":"Fair","steward":"1or2","spc_common":"golden raintree","boroname":"Bronx","count_tree_id":"26"}
+,{"health":"Fair","steward":"1or2","spc_common":"golden raintree","boroname":"Brooklyn","count_tree_id":"48"}
+,{"health":"Fair","steward":"1or2","spc_common":"golden raintree","boroname":"Manhattan","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"golden raintree","boroname":"Queens","count_tree_id":"58"}
+,{"health":"Fair","steward":"1or2","spc_common":"golden raintree","boroname":"Staten Island","count_tree_id":"12"}
+,{"health":"Fair","steward":"1or2","spc_common":"green ash","boroname":"Bronx","count_tree_id":"21"}
+,{"health":"Fair","steward":"1or2","spc_common":"green ash","boroname":"Brooklyn","count_tree_id":"120"}
+,{"health":"Fair","steward":"1or2","spc_common":"green ash","boroname":"Manhattan","count_tree_id":"64"}
+,{"health":"Fair","steward":"1or2","spc_common":"green ash","boroname":"Queens","count_tree_id":"141"}
+,{"health":"Fair","steward":"1or2","spc_common":"green ash","boroname":"Staten Island","count_tree_id":"58"}
+,{"health":"Fair","steward":"1or2","spc_common":"hardy rubber tree","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"hardy rubber tree","boroname":"Brooklyn","count_tree_id":"15"}
+,{"health":"Fair","steward":"1or2","spc_common":"hardy rubber tree","boroname":"Manhattan","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"hardy rubber tree","boroname":"Queens","count_tree_id":"19"}
+,{"health":"Fair","steward":"1or2","spc_common":"hardy rubber tree","boroname":"Staten Island","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"hawthorn","boroname":"Bronx","count_tree_id":"16"}
+,{"health":"Fair","steward":"1or2","spc_common":"hawthorn","boroname":"Brooklyn","count_tree_id":"29"}
+,{"health":"Fair","steward":"1or2","spc_common":"hawthorn","boroname":"Manhattan","count_tree_id":"17"}
+,{"health":"Fair","steward":"1or2","spc_common":"hawthorn","boroname":"Queens","count_tree_id":"42"}
+,{"health":"Fair","steward":"1or2","spc_common":"hawthorn","boroname":"Staten Island","count_tree_id":"14"}
+,{"health":"Fair","steward":"1or2","spc_common":"hedge maple","boroname":"Bronx","count_tree_id":"15"}
+,{"health":"Fair","steward":"1or2","spc_common":"hedge maple","boroname":"Brooklyn","count_tree_id":"28"}
+,{"health":"Fair","steward":"1or2","spc_common":"hedge maple","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"hedge maple","boroname":"Queens","count_tree_id":"23"}
+,{"health":"Fair","steward":"1or2","spc_common":"hedge maple","boroname":"Staten Island","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"Himalayan cedar","boroname":"Brooklyn","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"Himalayan cedar","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"Himalayan cedar","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"holly","boroname":"Brooklyn","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"holly","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"holly","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"holly","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"honeylocust","boroname":"Bronx","count_tree_id":"202"}
+,{"health":"Fair","steward":"1or2","spc_common":"honeylocust","boroname":"Brooklyn","count_tree_id":"649"}
+,{"health":"Fair","steward":"1or2","spc_common":"honeylocust","boroname":"Manhattan","count_tree_id":"767"}
+,{"health":"Fair","steward":"1or2","spc_common":"honeylocust","boroname":"Queens","count_tree_id":"600"}
+,{"health":"Fair","steward":"1or2","spc_common":"honeylocust","boroname":"Staten Island","count_tree_id":"110"}
+,{"health":"Fair","steward":"1or2","spc_common":"horse chestnut","boroname":"Bronx","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"horse chestnut","boroname":"Brooklyn","count_tree_id":"21"}
+,{"health":"Fair","steward":"1or2","spc_common":"horse chestnut","boroname":"Queens","count_tree_id":"12"}
+,{"health":"Fair","steward":"1or2","spc_common":"horse chestnut","boroname":"Staten Island","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese hornbeam","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese hornbeam","boroname":"Brooklyn","count_tree_id":"14"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese hornbeam","boroname":"Manhattan","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese hornbeam","boroname":"Queens","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese hornbeam","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese maple","boroname":"Bronx","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese maple","boroname":"Brooklyn","count_tree_id":"10"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese maple","boroname":"Queens","count_tree_id":"24"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese maple","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese snowbell","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese snowbell","boroname":"Brooklyn","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese snowbell","boroname":"Queens","count_tree_id":"11"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese snowbell","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese tree lilac","boroname":"Bronx","count_tree_id":"27"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese tree lilac","boroname":"Brooklyn","count_tree_id":"66"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese tree lilac","boroname":"Manhattan","count_tree_id":"12"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese tree lilac","boroname":"Queens","count_tree_id":"105"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese tree lilac","boroname":"Staten Island","count_tree_id":"27"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese zelkova","boroname":"Bronx","count_tree_id":"91"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese zelkova","boroname":"Brooklyn","count_tree_id":"293"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese zelkova","boroname":"Manhattan","count_tree_id":"211"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese zelkova","boroname":"Queens","count_tree_id":"192"}
+,{"health":"Fair","steward":"1or2","spc_common":"Japanese zelkova","boroname":"Staten Island","count_tree_id":"52"}
+,{"health":"Fair","steward":"1or2","spc_common":"katsura tree","boroname":"Bronx","count_tree_id":"14"}
+,{"health":"Fair","steward":"1or2","spc_common":"katsura tree","boroname":"Brooklyn","count_tree_id":"25"}
+,{"health":"Fair","steward":"1or2","spc_common":"katsura tree","boroname":"Manhattan","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"katsura tree","boroname":"Queens","count_tree_id":"23"}
+,{"health":"Fair","steward":"1or2","spc_common":"katsura tree","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"Kentucky coffeetree","boroname":"Bronx","count_tree_id":"28"}
+,{"health":"Fair","steward":"1or2","spc_common":"Kentucky coffeetree","boroname":"Brooklyn","count_tree_id":"50"}
+,{"health":"Fair","steward":"1or2","spc_common":"Kentucky coffeetree","boroname":"Manhattan","count_tree_id":"17"}
+,{"health":"Fair","steward":"1or2","spc_common":"Kentucky coffeetree","boroname":"Queens","count_tree_id":"45"}
+,{"health":"Fair","steward":"1or2","spc_common":"Kentucky coffeetree","boroname":"Staten Island","count_tree_id":"17"}
+,{"health":"Fair","steward":"1or2","spc_common":"Kentucky yellowwood","boroname":"Bronx","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"Kentucky yellowwood","boroname":"Brooklyn","count_tree_id":"15"}
+,{"health":"Fair","steward":"1or2","spc_common":"Kentucky yellowwood","boroname":"Manhattan","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"Kentucky yellowwood","boroname":"Queens","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"Kentucky yellowwood","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"kousa dogwood","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"kousa dogwood","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"kousa dogwood","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"kousa dogwood","boroname":"Staten Island","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"littleleaf linden","boroname":"Bronx","count_tree_id":"128"}
+,{"health":"Fair","steward":"1or2","spc_common":"littleleaf linden","boroname":"Brooklyn","count_tree_id":"332"}
+,{"health":"Fair","steward":"1or2","spc_common":"littleleaf linden","boroname":"Manhattan","count_tree_id":"309"}
+,{"health":"Fair","steward":"1or2","spc_common":"littleleaf linden","boroname":"Queens","count_tree_id":"345"}
+,{"health":"Fair","steward":"1or2","spc_common":"littleleaf linden","boroname":"Staten Island","count_tree_id":"43"}
+,{"health":"Fair","steward":"1or2","spc_common":"London planetree","boroname":"Bronx","count_tree_id":"165"}
+,{"health":"Fair","steward":"1or2","spc_common":"London planetree","boroname":"Brooklyn","count_tree_id":"866"}
+,{"health":"Fair","steward":"1or2","spc_common":"London planetree","boroname":"Manhattan","count_tree_id":"469"}
+,{"health":"Fair","steward":"1or2","spc_common":"London planetree","boroname":"Queens","count_tree_id":"457"}
+,{"health":"Fair","steward":"1or2","spc_common":"London planetree","boroname":"Staten Island","count_tree_id":"119"}
+,{"health":"Fair","steward":"1or2","spc_common":"magnolia","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"magnolia","boroname":"Brooklyn","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"magnolia","boroname":"Manhattan","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"magnolia","boroname":"Queens","count_tree_id":"13"}
+,{"health":"Fair","steward":"1or2","spc_common":"magnolia","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"maple","boroname":"Bronx","count_tree_id":"31"}
+,{"health":"Fair","steward":"1or2","spc_common":"maple","boroname":"Brooklyn","count_tree_id":"19"}
+,{"health":"Fair","steward":"1or2","spc_common":"maple","boroname":"Manhattan","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"maple","boroname":"Queens","count_tree_id":"68"}
+,{"health":"Fair","steward":"1or2","spc_common":"maple","boroname":"Staten Island","count_tree_id":"49"}
+,{"health":"Fair","steward":"1or2","spc_common":"mimosa","boroname":"Brooklyn","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"mimosa","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"mulberry","boroname":"Bronx","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"mulberry","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"mulberry","boroname":"Manhattan","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"mulberry","boroname":"Queens","count_tree_id":"12"}
+,{"health":"Fair","steward":"1or2","spc_common":"mulberry","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"northern red oak","boroname":"Bronx","count_tree_id":"33"}
+,{"health":"Fair","steward":"1or2","spc_common":"northern red oak","boroname":"Brooklyn","count_tree_id":"99"}
+,{"health":"Fair","steward":"1or2","spc_common":"northern red oak","boroname":"Manhattan","count_tree_id":"93"}
+,{"health":"Fair","steward":"1or2","spc_common":"northern red oak","boroname":"Queens","count_tree_id":"42"}
+,{"health":"Fair","steward":"1or2","spc_common":"northern red oak","boroname":"Staten Island","count_tree_id":"21"}
+,{"health":"Fair","steward":"1or2","spc_common":"Norway maple","boroname":"Bronx","count_tree_id":"76"}
+,{"health":"Fair","steward":"1or2","spc_common":"Norway maple","boroname":"Brooklyn","count_tree_id":"340"}
+,{"health":"Fair","steward":"1or2","spc_common":"Norway maple","boroname":"Manhattan","count_tree_id":"30"}
+,{"health":"Fair","steward":"1or2","spc_common":"Norway maple","boroname":"Queens","count_tree_id":"576"}
+,{"health":"Fair","steward":"1or2","spc_common":"Norway maple","boroname":"Staten Island","count_tree_id":"90"}
+,{"health":"Fair","steward":"1or2","spc_common":"Norway spruce","boroname":"Bronx","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"Norway spruce","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"Norway spruce","boroname":"Queens","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"Norway spruce","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Ohio buckeye","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Ohio buckeye","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"Ohio buckeye","boroname":"Manhattan","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"Oklahoma redbud","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"Oklahoma redbud","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Oklahoma redbud","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Oklahoma redbud","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"Osage-orange","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"pagoda dogwood","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"pagoda dogwood","boroname":"Brooklyn","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"pagoda dogwood","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"pagoda dogwood","boroname":"Queens","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"pagoda dogwood","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"paperbark maple","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"paperbark maple","boroname":"Manhattan","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"paperbark maple","boroname":"Queens","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"paperbark maple","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"paper birch","boroname":"Bronx","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"paper birch","boroname":"Brooklyn","count_tree_id":"14"}
+,{"health":"Fair","steward":"1or2","spc_common":"paper birch","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"paper birch","boroname":"Queens","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"paper birch","boroname":"Staten Island","count_tree_id":"10"}
+,{"health":"Fair","steward":"1or2","spc_common":"Persian ironwood","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"Persian ironwood","boroname":"Brooklyn","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"Persian ironwood","boroname":"Queens","count_tree_id":"11"}
+,{"health":"Fair","steward":"1or2","spc_common":"Persian ironwood","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"pignut hickory","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"pignut hickory","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"pignut hickory","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"pine","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"pine","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"pine","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"pine","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"pin oak","boroname":"Bronx","count_tree_id":"98"}
+,{"health":"Fair","steward":"1or2","spc_common":"pin oak","boroname":"Brooklyn","count_tree_id":"327"}
+,{"health":"Fair","steward":"1or2","spc_common":"pin oak","boroname":"Manhattan","count_tree_id":"236"}
+,{"health":"Fair","steward":"1or2","spc_common":"pin oak","boroname":"Queens","count_tree_id":"404"}
+,{"health":"Fair","steward":"1or2","spc_common":"pin oak","boroname":"Staten Island","count_tree_id":"99"}
+,{"health":"Fair","steward":"1or2","spc_common":"pond cypress","boroname":"Brooklyn","count_tree_id":"18"}
+,{"health":"Fair","steward":"1or2","spc_common":"pond cypress","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"pond cypress","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"purple-leaf plum","boroname":"Bronx","count_tree_id":"34"}
+,{"health":"Fair","steward":"1or2","spc_common":"purple-leaf plum","boroname":"Brooklyn","count_tree_id":"89"}
+,{"health":"Fair","steward":"1or2","spc_common":"purple-leaf plum","boroname":"Manhattan","count_tree_id":"12"}
+,{"health":"Fair","steward":"1or2","spc_common":"purple-leaf plum","boroname":"Queens","count_tree_id":"145"}
+,{"health":"Fair","steward":"1or2","spc_common":"purple-leaf plum","boroname":"Staten Island","count_tree_id":"87"}
+,{"health":"Fair","steward":"1or2","spc_common":"red horse chestnut","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"red maple","boroname":"Bronx","count_tree_id":"63"}
+,{"health":"Fair","steward":"1or2","spc_common":"red maple","boroname":"Brooklyn","count_tree_id":"130"}
+,{"health":"Fair","steward":"1or2","spc_common":"red maple","boroname":"Manhattan","count_tree_id":"45"}
+,{"health":"Fair","steward":"1or2","spc_common":"red maple","boroname":"Queens","count_tree_id":"137"}
+,{"health":"Fair","steward":"1or2","spc_common":"red maple","boroname":"Staten Island","count_tree_id":"178"}
+,{"health":"Fair","steward":"1or2","spc_common":"red pine","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"red pine","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"river birch","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"river birch","boroname":"Brooklyn","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"river birch","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"river birch","boroname":"Queens","count_tree_id":"14"}
+,{"health":"Fair","steward":"1or2","spc_common":"river birch","boroname":"Staten Island","count_tree_id":"18"}
+,{"health":"Fair","steward":"1or2","spc_common":"sassafras","boroname":"Brooklyn","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"sassafras","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"sawtooth oak","boroname":"Bronx","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"sawtooth oak","boroname":"Brooklyn","count_tree_id":"24"}
+,{"health":"Fair","steward":"1or2","spc_common":"sawtooth oak","boroname":"Manhattan","count_tree_id":"23"}
+,{"health":"Fair","steward":"1or2","spc_common":"sawtooth oak","boroname":"Queens","count_tree_id":"11"}
+,{"health":"Fair","steward":"1or2","spc_common":"sawtooth oak","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"scarlet oak","boroname":"Bronx","count_tree_id":"13"}
+,{"health":"Fair","steward":"1or2","spc_common":"scarlet oak","boroname":"Brooklyn","count_tree_id":"26"}
+,{"health":"Fair","steward":"1or2","spc_common":"scarlet oak","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"scarlet oak","boroname":"Queens","count_tree_id":"21"}
+,{"health":"Fair","steward":"1or2","spc_common":"scarlet oak","boroname":"Staten Island","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"'Schubert' chokecherry","boroname":"Bronx","count_tree_id":"22"}
+,{"health":"Fair","steward":"1or2","spc_common":"'Schubert' chokecherry","boroname":"Brooklyn","count_tree_id":"76"}
+,{"health":"Fair","steward":"1or2","spc_common":"'Schubert' chokecherry","boroname":"Manhattan","count_tree_id":"23"}
+,{"health":"Fair","steward":"1or2","spc_common":"'Schubert' chokecherry","boroname":"Queens","count_tree_id":"70"}
+,{"health":"Fair","steward":"1or2","spc_common":"'Schubert' chokecherry","boroname":"Staten Island","count_tree_id":"29"}
+,{"health":"Fair","steward":"1or2","spc_common":"Schumard's oak","boroname":"Bronx","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"Schumard's oak","boroname":"Brooklyn","count_tree_id":"25"}
+,{"health":"Fair","steward":"1or2","spc_common":"Schumard's oak","boroname":"Manhattan","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"Schumard's oak","boroname":"Queens","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"Schumard's oak","boroname":"Staten Island","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"Scots pine","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"serviceberry","boroname":"Bronx","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"serviceberry","boroname":"Brooklyn","count_tree_id":"25"}
+,{"health":"Fair","steward":"1or2","spc_common":"serviceberry","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"serviceberry","boroname":"Queens","count_tree_id":"48"}
+,{"health":"Fair","steward":"1or2","spc_common":"serviceberry","boroname":"Staten Island","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"Shantung maple","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Shantung maple","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Shantung maple","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"shingle oak","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"shingle oak","boroname":"Brooklyn","count_tree_id":"16"}
+,{"health":"Fair","steward":"1or2","spc_common":"shingle oak","boroname":"Manhattan","count_tree_id":"10"}
+,{"health":"Fair","steward":"1or2","spc_common":"shingle oak","boroname":"Queens","count_tree_id":"13"}
+,{"health":"Fair","steward":"1or2","spc_common":"shingle oak","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Siberian elm","boroname":"Bronx","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"Siberian elm","boroname":"Brooklyn","count_tree_id":"23"}
+,{"health":"Fair","steward":"1or2","spc_common":"Siberian elm","boroname":"Manhattan","count_tree_id":"12"}
+,{"health":"Fair","steward":"1or2","spc_common":"Siberian elm","boroname":"Queens","count_tree_id":"11"}
+,{"health":"Fair","steward":"1or2","spc_common":"Siberian elm","boroname":"Staten Island","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver birch","boroname":"Bronx","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver birch","boroname":"Brooklyn","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver birch","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver birch","boroname":"Queens","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver birch","boroname":"Staten Island","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver linden","boroname":"Bronx","count_tree_id":"23"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver linden","boroname":"Brooklyn","count_tree_id":"89"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver linden","boroname":"Manhattan","count_tree_id":"63"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver linden","boroname":"Queens","count_tree_id":"75"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver linden","boroname":"Staten Island","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver maple","boroname":"Bronx","count_tree_id":"13"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver maple","boroname":"Brooklyn","count_tree_id":"32"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver maple","boroname":"Manhattan","count_tree_id":"13"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver maple","boroname":"Queens","count_tree_id":"73"}
+,{"health":"Fair","steward":"1or2","spc_common":"silver maple","boroname":"Staten Island","count_tree_id":"72"}
+,{"health":"Fair","steward":"1or2","spc_common":"smoketree","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"smoketree","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Sophora","boroname":"Bronx","count_tree_id":"68"}
+,{"health":"Fair","steward":"1or2","spc_common":"Sophora","boroname":"Brooklyn","count_tree_id":"266"}
+,{"health":"Fair","steward":"1or2","spc_common":"Sophora","boroname":"Manhattan","count_tree_id":"254"}
+,{"health":"Fair","steward":"1or2","spc_common":"Sophora","boroname":"Queens","count_tree_id":"212"}
+,{"health":"Fair","steward":"1or2","spc_common":"Sophora","boroname":"Staten Island","count_tree_id":"23"}
+,{"health":"Fair","steward":"1or2","spc_common":"southern magnolia","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"southern magnolia","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"spruce","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"spruce","boroname":"Queens","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"sugar maple","boroname":"Bronx","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"sugar maple","boroname":"Brooklyn","count_tree_id":"59"}
+,{"health":"Fair","steward":"1or2","spc_common":"sugar maple","boroname":"Manhattan","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"sugar maple","boroname":"Queens","count_tree_id":"38"}
+,{"health":"Fair","steward":"1or2","spc_common":"sugar maple","boroname":"Staten Island","count_tree_id":"18"}
+,{"health":"Fair","steward":"1or2","spc_common":"swamp white oak","boroname":"Bronx","count_tree_id":"31"}
+,{"health":"Fair","steward":"1or2","spc_common":"swamp white oak","boroname":"Brooklyn","count_tree_id":"146"}
+,{"health":"Fair","steward":"1or2","spc_common":"swamp white oak","boroname":"Manhattan","count_tree_id":"36"}
+,{"health":"Fair","steward":"1or2","spc_common":"swamp white oak","boroname":"Queens","count_tree_id":"47"}
+,{"health":"Fair","steward":"1or2","spc_common":"swamp white oak","boroname":"Staten Island","count_tree_id":"46"}
+,{"health":"Fair","steward":"1or2","spc_common":"sweetgum","boroname":"Bronx","count_tree_id":"19"}
+,{"health":"Fair","steward":"1or2","spc_common":"sweetgum","boroname":"Brooklyn","count_tree_id":"96"}
+,{"health":"Fair","steward":"1or2","spc_common":"sweetgum","boroname":"Manhattan","count_tree_id":"15"}
+,{"health":"Fair","steward":"1or2","spc_common":"sweetgum","boroname":"Queens","count_tree_id":"51"}
+,{"health":"Fair","steward":"1or2","spc_common":"sweetgum","boroname":"Staten Island","count_tree_id":"109"}
+,{"health":"Fair","steward":"1or2","spc_common":"sycamore maple","boroname":"Bronx","count_tree_id":"7"}
+,{"health":"Fair","steward":"1or2","spc_common":"sycamore maple","boroname":"Brooklyn","count_tree_id":"19"}
+,{"health":"Fair","steward":"1or2","spc_common":"sycamore maple","boroname":"Manhattan","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"sycamore maple","boroname":"Queens","count_tree_id":"31"}
+,{"health":"Fair","steward":"1or2","spc_common":"sycamore maple","boroname":"Staten Island","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"tartar maple","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"tartar maple","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"tartar maple","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"tartar maple","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"tartar maple","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"tree of heaven","boroname":"Brooklyn","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"tree of heaven","boroname":"Manhattan","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"tree of heaven","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"trident maple","boroname":"Queens","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"trident maple","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"tulip-poplar","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"tulip-poplar","boroname":"Brooklyn","count_tree_id":"14"}
+,{"health":"Fair","steward":"1or2","spc_common":"tulip-poplar","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"tulip-poplar","boroname":"Queens","count_tree_id":"11"}
+,{"health":"Fair","steward":"1or2","spc_common":"tulip-poplar","boroname":"Staten Island","count_tree_id":"11"}
+,{"health":"Fair","steward":"1or2","spc_common":"Turkish hazelnut","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"Turkish hazelnut","boroname":"Brooklyn","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"Turkish hazelnut","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"Turkish hazelnut","boroname":"Queens","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"two-winged silverbell","boroname":"Bronx","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"two-winged silverbell","boroname":"Brooklyn","count_tree_id":"9"}
+,{"health":"Fair","steward":"1or2","spc_common":"two-winged silverbell","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"1or2","spc_common":"two-winged silverbell","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"two-winged silverbell","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"weeping willow","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"weeping willow","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"weeping willow","boroname":"Queens","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"weeping willow","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"white ash","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"white ash","boroname":"Manhattan","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"white ash","boroname":"Queens","count_tree_id":"6"}
+,{"health":"Fair","steward":"1or2","spc_common":"white ash","boroname":"Staten Island","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"white oak","boroname":"Bronx","count_tree_id":"5"}
+,{"health":"Fair","steward":"1or2","spc_common":"white oak","boroname":"Brooklyn","count_tree_id":"21"}
+,{"health":"Fair","steward":"1or2","spc_common":"white oak","boroname":"Manhattan","count_tree_id":"20"}
+,{"health":"Fair","steward":"1or2","spc_common":"white oak","boroname":"Queens","count_tree_id":"22"}
+,{"health":"Fair","steward":"1or2","spc_common":"white oak","boroname":"Staten Island","count_tree_id":"8"}
+,{"health":"Fair","steward":"1or2","spc_common":"white pine","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"white pine","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"1or2","spc_common":"white pine","boroname":"Queens","count_tree_id":"4"}
+,{"health":"Fair","steward":"1or2","spc_common":"white pine","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"1or2","spc_common":"willow oak","boroname":"Bronx","count_tree_id":"15"}
+,{"health":"Fair","steward":"1or2","spc_common":"willow oak","boroname":"Brooklyn","count_tree_id":"32"}
+,{"health":"Fair","steward":"1or2","spc_common":"willow oak","boroname":"Manhattan","count_tree_id":"47"}
+,{"health":"Fair","steward":"1or2","spc_common":"willow oak","boroname":"Queens","count_tree_id":"19"}
+,{"health":"Fair","steward":"1or2","spc_common":"willow oak","boroname":"Staten Island","count_tree_id":"11"}
+,{"health":"Fair","steward":"3or4","spc_common":"American beech","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"American elm","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"American elm","boroname":"Brooklyn","count_tree_id":"6"}
+,{"health":"Fair","steward":"3or4","spc_common":"American elm","boroname":"Manhattan","count_tree_id":"22"}
+,{"health":"Fair","steward":"3or4","spc_common":"American elm","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"American hophornbeam","boroname":"Manhattan","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"American hophornbeam","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"American hornbeam","boroname":"Bronx","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"American hornbeam","boroname":"Brooklyn","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"American hornbeam","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"American larch","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"American linden","boroname":"Bronx","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"American linden","boroname":"Brooklyn","count_tree_id":"17"}
+,{"health":"Fair","steward":"3or4","spc_common":"American linden","boroname":"Manhattan","count_tree_id":"37"}
+,{"health":"Fair","steward":"3or4","spc_common":"American linden","boroname":"Queens","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"Amur cork tree","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Amur cork tree","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Amur maackia","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"Amur maackia","boroname":"Brooklyn","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"Amur maackia","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Amur maackia","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"Amur maple","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Amur maple","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"Amur maple","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Amur maple","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"arborvitae","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"ash","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"Atlantic white cedar","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"bald cypress","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"bald cypress","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"bigtooth aspen","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"black cherry","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"black cherry","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"blackgum","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"blackgum","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"black locust","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"black locust","boroname":"Brooklyn","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"black locust","boroname":"Manhattan","count_tree_id":"8"}
+,{"health":"Fair","steward":"3or4","spc_common":"black locust","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"black locust","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"black maple","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"black oak","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"black oak","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"black oak","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"black walnut","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"blue spruce","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"boxelder","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"bur oak","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"bur oak","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"Callery pear","boroname":"Bronx","count_tree_id":"7"}
+,{"health":"Fair","steward":"3or4","spc_common":"Callery pear","boroname":"Brooklyn","count_tree_id":"59"}
+,{"health":"Fair","steward":"3or4","spc_common":"Callery pear","boroname":"Manhattan","count_tree_id":"280"}
+,{"health":"Fair","steward":"3or4","spc_common":"Callery pear","boroname":"Queens","count_tree_id":"37"}
+,{"health":"Fair","steward":"3or4","spc_common":"Callery pear","boroname":"Staten Island","count_tree_id":"37"}
+,{"health":"Fair","steward":"3or4","spc_common":"catalpa","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"cherry","boroname":"Bronx","count_tree_id":"7"}
+,{"health":"Fair","steward":"3or4","spc_common":"cherry","boroname":"Brooklyn","count_tree_id":"23"}
+,{"health":"Fair","steward":"3or4","spc_common":"cherry","boroname":"Manhattan","count_tree_id":"17"}
+,{"health":"Fair","steward":"3or4","spc_common":"cherry","boroname":"Queens","count_tree_id":"20"}
+,{"health":"Fair","steward":"3or4","spc_common":"cherry","boroname":"Staten Island","count_tree_id":"11"}
+,{"health":"Fair","steward":"3or4","spc_common":"Chinese elm","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"Chinese elm","boroname":"Brooklyn","count_tree_id":"13"}
+,{"health":"Fair","steward":"3or4","spc_common":"Chinese elm","boroname":"Manhattan","count_tree_id":"13"}
+,{"health":"Fair","steward":"3or4","spc_common":"Chinese elm","boroname":"Queens","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"Chinese elm","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"Chinese tree lilac","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"cockspur hawthorn","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"common hackberry","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"common hackberry","boroname":"Brooklyn","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"common hackberry","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"common hackberry","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"Cornelian cherry","boroname":"Brooklyn","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"Cornelian cherry","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Cornelian cherry","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"crab apple","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"crab apple","boroname":"Brooklyn","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"crab apple","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"crab apple","boroname":"Queens","count_tree_id":"6"}
+,{"health":"Fair","steward":"3or4","spc_common":"crab apple","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"crimson king maple","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"crimson king maple","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"crimson king maple","boroname":"Queens","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"crimson king maple","boroname":"Staten Island","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"cucumber magnolia","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"dawn redwood","boroname":"Brooklyn","count_tree_id":"6"}
+,{"health":"Fair","steward":"3or4","spc_common":"dawn redwood","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"dawn redwood","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"eastern redbud","boroname":"Bronx","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"eastern redbud","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"eastern redbud","boroname":"Queens","count_tree_id":"6"}
+,{"health":"Fair","steward":"3or4","spc_common":"eastern redbud","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"eastern redcedar","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"eastern redcedar","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"empress tree","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"English oak","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"English oak","boroname":"Manhattan","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"European alder","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"European hornbeam","boroname":"Brooklyn","count_tree_id":"10"}
+,{"health":"Fair","steward":"3or4","spc_common":"European hornbeam","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"European hornbeam","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"European hornbeam","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"false cypress","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"flowering dogwood","boroname":"Brooklyn","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"flowering dogwood","boroname":"Manhattan","count_tree_id":"12"}
+,{"health":"Fair","steward":"3or4","spc_common":"flowering dogwood","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"ginkgo","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"ginkgo","boroname":"Brooklyn","count_tree_id":"19"}
+,{"health":"Fair","steward":"3or4","spc_common":"ginkgo","boroname":"Manhattan","count_tree_id":"166"}
+,{"health":"Fair","steward":"3or4","spc_common":"ginkgo","boroname":"Queens","count_tree_id":"8"}
+,{"health":"Fair","steward":"3or4","spc_common":"ginkgo","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"golden raintree","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"golden raintree","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"golden raintree","boroname":"Manhattan","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"golden raintree","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"golden raintree","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"green ash","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"green ash","boroname":"Brooklyn","count_tree_id":"12"}
+,{"health":"Fair","steward":"3or4","spc_common":"green ash","boroname":"Manhattan","count_tree_id":"17"}
+,{"health":"Fair","steward":"3or4","spc_common":"green ash","boroname":"Queens","count_tree_id":"11"}
+,{"health":"Fair","steward":"3or4","spc_common":"green ash","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"hardy rubber tree","boroname":"Brooklyn","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"hardy rubber tree","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"hardy rubber tree","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"hawthorn","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"hawthorn","boroname":"Brooklyn","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"hawthorn","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"hawthorn","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"hedge maple","boroname":"Brooklyn","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"hedge maple","boroname":"Manhattan","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"hedge maple","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"Himalayan cedar","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"honeylocust","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"honeylocust","boroname":"Brooklyn","count_tree_id":"67"}
+,{"health":"Fair","steward":"3or4","spc_common":"honeylocust","boroname":"Manhattan","count_tree_id":"194"}
+,{"health":"Fair","steward":"3or4","spc_common":"honeylocust","boroname":"Queens","count_tree_id":"21"}
+,{"health":"Fair","steward":"3or4","spc_common":"honeylocust","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"horse chestnut","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"horse chestnut","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"horse chestnut","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"horse chestnut","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese hornbeam","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese maple","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese maple","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese maple","boroname":"Queens","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese maple","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese snowbell","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese snowbell","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese snowbell","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese snowbell","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese tree lilac","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese tree lilac","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese tree lilac","boroname":"Manhattan","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese tree lilac","boroname":"Queens","count_tree_id":"6"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese tree lilac","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese zelkova","boroname":"Bronx","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese zelkova","boroname":"Brooklyn","count_tree_id":"28"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese zelkova","boroname":"Manhattan","count_tree_id":"71"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese zelkova","boroname":"Queens","count_tree_id":"15"}
+,{"health":"Fair","steward":"3or4","spc_common":"Japanese zelkova","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"katsura tree","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"katsura tree","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"katsura tree","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"Kentucky coffeetree","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Kentucky coffeetree","boroname":"Brooklyn","count_tree_id":"7"}
+,{"health":"Fair","steward":"3or4","spc_common":"Kentucky coffeetree","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"Kentucky coffeetree","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Kentucky yellowwood","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"kousa dogwood","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"kousa dogwood","boroname":"Queens","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"littleleaf linden","boroname":"Bronx","count_tree_id":"9"}
+,{"health":"Fair","steward":"3or4","spc_common":"littleleaf linden","boroname":"Brooklyn","count_tree_id":"36"}
+,{"health":"Fair","steward":"3or4","spc_common":"littleleaf linden","boroname":"Manhattan","count_tree_id":"102"}
+,{"health":"Fair","steward":"3or4","spc_common":"littleleaf linden","boroname":"Queens","count_tree_id":"24"}
+,{"health":"Fair","steward":"3or4","spc_common":"littleleaf linden","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"London planetree","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"London planetree","boroname":"Brooklyn","count_tree_id":"110"}
+,{"health":"Fair","steward":"3or4","spc_common":"London planetree","boroname":"Manhattan","count_tree_id":"125"}
+,{"health":"Fair","steward":"3or4","spc_common":"London planetree","boroname":"Queens","count_tree_id":"27"}
+,{"health":"Fair","steward":"3or4","spc_common":"London planetree","boroname":"Staten Island","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"magnolia","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"magnolia","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"maple","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"maple","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"maple","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"maple","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"mimosa","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"mulberry","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"mulberry","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"northern red oak","boroname":"Bronx","count_tree_id":"7"}
+,{"health":"Fair","steward":"3or4","spc_common":"northern red oak","boroname":"Brooklyn","count_tree_id":"14"}
+,{"health":"Fair","steward":"3or4","spc_common":"northern red oak","boroname":"Manhattan","count_tree_id":"30"}
+,{"health":"Fair","steward":"3or4","spc_common":"northern red oak","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"Norway maple","boroname":"Bronx","count_tree_id":"7"}
+,{"health":"Fair","steward":"3or4","spc_common":"Norway maple","boroname":"Brooklyn","count_tree_id":"49"}
+,{"health":"Fair","steward":"3or4","spc_common":"Norway maple","boroname":"Manhattan","count_tree_id":"11"}
+,{"health":"Fair","steward":"3or4","spc_common":"Norway maple","boroname":"Queens","count_tree_id":"50"}
+,{"health":"Fair","steward":"3or4","spc_common":"Norway maple","boroname":"Staten Island","count_tree_id":"8"}
+,{"health":"Fair","steward":"3or4","spc_common":"Norway spruce","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"Oklahoma redbud","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"pagoda dogwood","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"pagoda dogwood","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"paperbark maple","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"paperbark maple","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"paperbark maple","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"paper birch","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"paper birch","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"paper birch","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"pin oak","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"pin oak","boroname":"Brooklyn","count_tree_id":"44"}
+,{"health":"Fair","steward":"3or4","spc_common":"pin oak","boroname":"Manhattan","count_tree_id":"65"}
+,{"health":"Fair","steward":"3or4","spc_common":"pin oak","boroname":"Queens","count_tree_id":"20"}
+,{"health":"Fair","steward":"3or4","spc_common":"pin oak","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"pond cypress","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"purple-leaf plum","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"purple-leaf plum","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"purple-leaf plum","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"purple-leaf plum","boroname":"Queens","count_tree_id":"9"}
+,{"health":"Fair","steward":"3or4","spc_common":"purple-leaf plum","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"quaking aspen","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"red horse chestnut","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"red maple","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"red maple","boroname":"Brooklyn","count_tree_id":"13"}
+,{"health":"Fair","steward":"3or4","spc_common":"red maple","boroname":"Manhattan","count_tree_id":"10"}
+,{"health":"Fair","steward":"3or4","spc_common":"red maple","boroname":"Queens","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"red maple","boroname":"Staten Island","count_tree_id":"7"}
+,{"health":"Fair","steward":"3or4","spc_common":"river birch","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"river birch","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"sawtooth oak","boroname":"Brooklyn","count_tree_id":"6"}
+,{"health":"Fair","steward":"3or4","spc_common":"sawtooth oak","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"sawtooth oak","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"scarlet oak","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"'Schubert' chokecherry","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"'Schubert' chokecherry","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"'Schubert' chokecherry","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"'Schubert' chokecherry","boroname":"Staten Island","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"Schumard's oak","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Schumard's oak","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"serviceberry","boroname":"Bronx","count_tree_id":"7"}
+,{"health":"Fair","steward":"3or4","spc_common":"serviceberry","boroname":"Brooklyn","count_tree_id":"6"}
+,{"health":"Fair","steward":"3or4","spc_common":"serviceberry","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"shingle oak","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"shingle oak","boroname":"Manhattan","count_tree_id":"8"}
+,{"health":"Fair","steward":"3or4","spc_common":"Siberian elm","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"Siberian elm","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"silver linden","boroname":"Brooklyn","count_tree_id":"9"}
+,{"health":"Fair","steward":"3or4","spc_common":"silver linden","boroname":"Manhattan","count_tree_id":"18"}
+,{"health":"Fair","steward":"3or4","spc_common":"silver linden","boroname":"Queens","count_tree_id":"10"}
+,{"health":"Fair","steward":"3or4","spc_common":"silver maple","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"silver maple","boroname":"Brooklyn","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"silver maple","boroname":"Queens","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"silver maple","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"Sophora","boroname":"Bronx","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"Sophora","boroname":"Brooklyn","count_tree_id":"24"}
+,{"health":"Fair","steward":"3or4","spc_common":"Sophora","boroname":"Manhattan","count_tree_id":"94"}
+,{"health":"Fair","steward":"3or4","spc_common":"Sophora","boroname":"Queens","count_tree_id":"12"}
+,{"health":"Fair","steward":"3or4","spc_common":"southern red oak","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"spruce","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"sugar maple","boroname":"Brooklyn","count_tree_id":"9"}
+,{"health":"Fair","steward":"3or4","spc_common":"sugar maple","boroname":"Manhattan","count_tree_id":"6"}
+,{"health":"Fair","steward":"3or4","spc_common":"sugar maple","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"swamp white oak","boroname":"Brooklyn","count_tree_id":"53"}
+,{"health":"Fair","steward":"3or4","spc_common":"swamp white oak","boroname":"Manhattan","count_tree_id":"6"}
+,{"health":"Fair","steward":"3or4","spc_common":"swamp white oak","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"swamp white oak","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"sweetgum","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"sweetgum","boroname":"Brooklyn","count_tree_id":"9"}
+,{"health":"Fair","steward":"3or4","spc_common":"sweetgum","boroname":"Manhattan","count_tree_id":"7"}
+,{"health":"Fair","steward":"3or4","spc_common":"sweetgum","boroname":"Queens","count_tree_id":"10"}
+,{"health":"Fair","steward":"3or4","spc_common":"sweetgum","boroname":"Staten Island","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"sycamore maple","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"sycamore maple","boroname":"Brooklyn","count_tree_id":"4"}
+,{"health":"Fair","steward":"3or4","spc_common":"sycamore maple","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"tartar maple","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"tree of heaven","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"tree of heaven","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"tulip-poplar","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"Turkish hazelnut","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"Turkish hazelnut","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"two-winged silverbell","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"weeping willow","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"white ash","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"white ash","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"white ash","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"white oak","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"3or4","spc_common":"white oak","boroname":"Brooklyn","count_tree_id":"7"}
+,{"health":"Fair","steward":"3or4","spc_common":"white oak","boroname":"Manhattan","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"white oak","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"3or4","spc_common":"willow oak","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"3or4","spc_common":"willow oak","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"3or4","spc_common":"willow oak","boroname":"Manhattan","count_tree_id":"14"}
+,{"health":"Fair","steward":"3or4","spc_common":"willow oak","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"American elm","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"American elm","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"4orMore","spc_common":"American hophornbeam","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"American linden","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Amur maple","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"black cherry","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"4orMore","spc_common":"blackgum","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"black oak","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"blue spruce","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Callery pear","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Callery pear","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Callery pear","boroname":"Manhattan","count_tree_id":"13"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Callery pear","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"4orMore","spc_common":"cherry","boroname":"Manhattan","count_tree_id":"4"}
+,{"health":"Fair","steward":"4orMore","spc_common":"cherry","boroname":"Queens","count_tree_id":"5"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Chinese chestnut","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Chinese elm","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Chinese elm","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Chinese elm","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Chinese tree lilac","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"common hackberry","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"common hackberry","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Cornelian cherry","boroname":"Brooklyn","count_tree_id":"7"}
+,{"health":"Fair","steward":"4orMore","spc_common":"crab apple","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"crimson king maple","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"dawn redwood","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"dawn redwood","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"eastern hemlock","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"eastern redbud","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"flowering dogwood","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"flowering dogwood","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"ginkgo","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"ginkgo","boroname":"Manhattan","count_tree_id":"11"}
+,{"health":"Fair","steward":"4orMore","spc_common":"ginkgo","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"4orMore","spc_common":"golden raintree","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"green ash","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"green ash","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"green ash","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"hawthorn","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"honeylocust","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"honeylocust","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"4orMore","spc_common":"honeylocust","boroname":"Manhattan","count_tree_id":"13"}
+,{"health":"Fair","steward":"4orMore","spc_common":"honeylocust","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"honeylocust","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Japanese maple","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Japanese tree lilac","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Japanese zelkova","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Japanese zelkova","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Japanese zelkova","boroname":"Manhattan","count_tree_id":"5"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Kentucky coffeetree","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Kentucky coffeetree","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"littleleaf linden","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"littleleaf linden","boroname":"Manhattan","count_tree_id":"9"}
+,{"health":"Fair","steward":"4orMore","spc_common":"littleleaf linden","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"London planetree","boroname":"Brooklyn","count_tree_id":"13"}
+,{"health":"Fair","steward":"4orMore","spc_common":"London planetree","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"London planetree","boroname":"Queens","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Norway maple","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Norway maple","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Norway maple","boroname":"Queens","count_tree_id":"7"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Norway maple","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Oklahoma redbud","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"pin oak","boroname":"Brooklyn","count_tree_id":"5"}
+,{"health":"Fair","steward":"4orMore","spc_common":"pin oak","boroname":"Manhattan","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"pin oak","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"purple-leaf plum","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"red maple","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"red maple","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"4orMore","spc_common":"sawtooth oak","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"silver linden","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Sophora","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Sophora","boroname":"Manhattan","count_tree_id":"6"}
+,{"health":"Fair","steward":"4orMore","spc_common":"Sophora","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"swamp white oak","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"swamp white oak","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"4orMore","spc_common":"sweetgum","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"sweetgum","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"sycamore maple","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"4orMore","spc_common":"white pine","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"None","spc_common":"American beech","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"None","spc_common":"American beech","boroname":"Brooklyn","count_tree_id":"8"}
+,{"health":"Fair","steward":"None","spc_common":"American beech","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"None","spc_common":"American beech","boroname":"Queens","count_tree_id":"5"}
+,{"health":"Fair","steward":"None","spc_common":"American beech","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"None","spc_common":"American elm","boroname":"Bronx","count_tree_id":"181"}
+,{"health":"Fair","steward":"None","spc_common":"American elm","boroname":"Brooklyn","count_tree_id":"367"}
+,{"health":"Fair","steward":"None","spc_common":"American elm","boroname":"Manhattan","count_tree_id":"149"}
+,{"health":"Fair","steward":"None","spc_common":"American elm","boroname":"Queens","count_tree_id":"170"}
+,{"health":"Fair","steward":"None","spc_common":"American elm","boroname":"Staten Island","count_tree_id":"55"}
+,{"health":"Fair","steward":"None","spc_common":"American hophornbeam","boroname":"Bronx","count_tree_id":"21"}
+,{"health":"Fair","steward":"None","spc_common":"American hophornbeam","boroname":"Brooklyn","count_tree_id":"41"}
+,{"health":"Fair","steward":"None","spc_common":"American hophornbeam","boroname":"Manhattan","count_tree_id":"4"}
+,{"health":"Fair","steward":"None","spc_common":"American hophornbeam","boroname":"Queens","count_tree_id":"28"}
+,{"health":"Fair","steward":"None","spc_common":"American hophornbeam","boroname":"Staten Island","count_tree_id":"10"}
+,{"health":"Fair","steward":"None","spc_common":"American hornbeam","boroname":"Bronx","count_tree_id":"38"}
+,{"health":"Fair","steward":"None","spc_common":"American hornbeam","boroname":"Brooklyn","count_tree_id":"20"}
+,{"health":"Fair","steward":"None","spc_common":"American hornbeam","boroname":"Manhattan","count_tree_id":"5"}
+,{"health":"Fair","steward":"None","spc_common":"American hornbeam","boroname":"Queens","count_tree_id":"32"}
+,{"health":"Fair","steward":"None","spc_common":"American hornbeam","boroname":"Staten Island","count_tree_id":"17"}
+,{"health":"Fair","steward":"None","spc_common":"American larch","boroname":"Bronx","count_tree_id":"2"}
+,{"health":"Fair","steward":"None","spc_common":"American larch","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"None","spc_common":"American larch","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"None","spc_common":"American linden","boroname":"Bronx","count_tree_id":"248"}
+,{"health":"Fair","steward":"None","spc_common":"American linden","boroname":"Brooklyn","count_tree_id":"381"}
+,{"health":"Fair","steward":"None","spc_common":"American linden","boroname":"Manhattan","count_tree_id":"168"}
+,{"health":"Fair","steward":"None","spc_common":"American linden","boroname":"Queens","count_tree_id":"382"}
+,{"health":"Fair","steward":"None","spc_common":"American linden","boroname":"Staten Island","count_tree_id":"84"}
+,{"health":"Fair","steward":"None","spc_common":"Amur cork tree","boroname":"Bronx","count_tree_id":"4"}
+,{"health":"Fair","steward":"None","spc_common":"Amur cork tree","boroname":"Brooklyn","count_tree_id":"7"}
+,{"health":"Fair","steward":"None","spc_common":"Amur cork tree","boroname":"Queens","count_tree_id":"19"}
+,{"health":"Fair","steward":"None","spc_common":"Amur cork tree","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"None","spc_common":"Amur maackia","boroname":"Bronx","count_tree_id":"44"}
+,{"health":"Fair","steward":"None","spc_common":"Amur maackia","boroname":"Brooklyn","count_tree_id":"59"}
+,{"health":"Fair","steward":"None","spc_common":"Amur maackia","boroname":"Manhattan","count_tree_id":"3"}
+,{"health":"Fair","steward":"None","spc_common":"Amur maackia","boroname":"Queens","count_tree_id":"48"}
+,{"health":"Fair","steward":"None","spc_common":"Amur maackia","boroname":"Staten Island","count_tree_id":"26"}
+,{"health":"Fair","steward":"None","spc_common":"Amur maple","boroname":"Bronx","count_tree_id":"52"}
+,{"health":"Fair","steward":"None","spc_common":"Amur maple","boroname":"Brooklyn","count_tree_id":"29"}
+,{"health":"Fair","steward":"None","spc_common":"Amur maple","boroname":"Queens","count_tree_id":"99"}
+,{"health":"Fair","steward":"None","spc_common":"Amur maple","boroname":"Staten Island","count_tree_id":"47"}
+,{"health":"Fair","steward":"None","spc_common":"arborvitae","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"None","spc_common":"arborvitae","boroname":"Queens","count_tree_id":"8"}
+,{"health":"Fair","steward":"None","spc_common":"arborvitae","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"None","spc_common":"ash","boroname":"Bronx","count_tree_id":"38"}
+,{"health":"Fair","steward":"None","spc_common":"ash","boroname":"Brooklyn","count_tree_id":"58"}
+,{"health":"Fair","steward":"None","spc_common":"ash","boroname":"Manhattan","count_tree_id":"10"}
+,{"health":"Fair","steward":"None","spc_common":"ash","boroname":"Queens","count_tree_id":"113"}
+,{"health":"Fair","steward":"None","spc_common":"ash","boroname":"Staten Island","count_tree_id":"132"}
+,{"health":"Fair","steward":"None","spc_common":"Atlantic white cedar","boroname":"Bronx","count_tree_id":"3"}
+,{"health":"Fair","steward":"None","spc_common":"Atlantic white cedar","boroname":"Brooklyn","count_tree_id":"11"}
+,{"health":"Fair","steward":"None","spc_common":"Atlantic white cedar","boroname":"Manhattan","count_tree_id":"5"}
+,{"health":"Fair","steward":"None","spc_common":"Atlantic white cedar","boroname":"Queens","count_tree_id":"13"}
+,{"health":"Fair","steward":"None","spc_common":"Atlantic white cedar","boroname":"Staten Island","count_tree_id":"9"}
+,{"health":"Fair","steward":"None","spc_common":"Atlas cedar","boroname":"Brooklyn","count_tree_id":"4"}
+,{"health":"Fair","steward":"None","spc_common":"Atlas cedar","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"None","spc_common":"bald cypress","boroname":"Bronx","count_tree_id":"6"}
+,{"health":"Fair","steward":"None","spc_common":"bald cypress","boroname":"Brooklyn","count_tree_id":"54"}
+,{"health":"Fair","steward":"None","spc_common":"bald cypress","boroname":"Manhattan","count_tree_id":"7"}
+,{"health":"Fair","steward":"None","spc_common":"bald cypress","boroname":"Queens","count_tree_id":"24"}
+,{"health":"Fair","steward":"None","spc_common":"bald cypress","boroname":"Staten Island","count_tree_id":"6"}
+,{"health":"Fair","steward":"None","spc_common":"bigtooth aspen","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"None","spc_common":"bigtooth aspen","boroname":"Brooklyn","count_tree_id":"4"}
+,{"health":"Fair","steward":"None","spc_common":"bigtooth aspen","boroname":"Queens","count_tree_id":"8"}
+,{"health":"Fair","steward":"None","spc_common":"bigtooth aspen","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"None","spc_common":"black cherry","boroname":"Bronx","count_tree_id":"6"}
+,{"health":"Fair","steward":"None","spc_common":"black cherry","boroname":"Brooklyn","count_tree_id":"14"}
+,{"health":"Fair","steward":"None","spc_common":"black cherry","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"None","spc_common":"black cherry","boroname":"Queens","count_tree_id":"48"}
+,{"health":"Fair","steward":"None","spc_common":"black cherry","boroname":"Staten Island","count_tree_id":"15"}
+,{"health":"Fair","steward":"None","spc_common":"blackgum","boroname":"Bronx","count_tree_id":"4"}
+,{"health":"Fair","steward":"None","spc_common":"blackgum","boroname":"Brooklyn","count_tree_id":"8"}
+,{"health":"Fair","steward":"None","spc_common":"blackgum","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"None","spc_common":"blackgum","boroname":"Queens","count_tree_id":"9"}
+,{"health":"Fair","steward":"None","spc_common":"blackgum","boroname":"Staten Island","count_tree_id":"2"}
+,{"health":"Fair","steward":"None","spc_common":"black locust","boroname":"Bronx","count_tree_id":"49"}
+,{"health":"Fair","steward":"None","spc_common":"black locust","boroname":"Brooklyn","count_tree_id":"62"}
+,{"health":"Fair","steward":"None","spc_common":"black locust","boroname":"Manhattan","count_tree_id":"24"}
+,{"health":"Fair","steward":"None","spc_common":"black locust","boroname":"Queens","count_tree_id":"73"}
+,{"health":"Fair","steward":"None","spc_common":"black locust","boroname":"Staten Island","count_tree_id":"47"}
+,{"health":"Fair","steward":"None","spc_common":"black maple","boroname":"Bronx","count_tree_id":"1"}
+,{"health":"Fair","steward":"None","spc_common":"black maple","boroname":"Brooklyn","count_tree_id":"2"}
+,{"health":"Fair","steward":"None","spc_common":"black maple","boroname":"Queens","count_tree_id":"3"}
+,{"health":"Fair","steward":"None","spc_common":"black maple","boroname":"Staten Island","count_tree_id":"6"}
+,{"health":"Fair","steward":"None","spc_common":"black oak","boroname":"Bronx","count_tree_id":"26"}
+,{"health":"Fair","steward":"None","spc_common":"black oak","boroname":"Brooklyn","count_tree_id":"47"}
+,{"health":"Fair","steward":"None","spc_common":"black oak","boroname":"Manhattan","count_tree_id":"22"}
+,{"health":"Fair","steward":"None","spc_common":"black oak","boroname":"Queens","count_tree_id":"26"}
+,{"health":"Fair","steward":"None","spc_common":"black oak","boroname":"Staten Island","count_tree_id":"7"}
+,{"health":"Fair","steward":"None","spc_common":"black pine","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"None","spc_common":"black pine","boroname":"Queens","count_tree_id":"12"}
+,{"health":"Fair","steward":"None","spc_common":"black pine","boroname":"Staten Island","count_tree_id":"1"}
+,{"health":"Fair","steward":"None","spc_common":"black walnut","boroname":"Bronx","count_tree_id":"7"}
+,{"health":"Fair","steward":"None","spc_common":"black walnut","boroname":"Brooklyn","count_tree_id":"6"}
+,{"health":"Fair","steward":"None","spc_common":"black walnut","boroname":"Manhattan","count_tree_id":"1"}
+,{"health":"Fair","steward":"None","spc_common":"black walnut","boroname":"Queens","count_tree_id":"10"}
+,{"health":"Fair","steward":"None","spc_common":"black walnut","boroname":"Staten Island","count_tree_id":"11"}
+,{"health":"Fair","steward":"None","spc_common":"blue spruce","boroname":"Brooklyn","count_tree_id":"3"}
+,{"health":"Fair","steward":"None","spc_common":"blue spruce","boroname":"Queens","count_tree_id":"6"}
+,{"health":"Fair","steward":"None","spc_common":"blue spruce","boroname":"Staten Island","count_tree_id":"3"}
+,{"health":"Fair","steward":"None","spc_common":"boxelder","boroname":"Brooklyn","count_tree_id":"1"}
+,{"health":"Fair","steward":"None","spc_common":"boxelder","boroname":"Queens","count_tree_id":"2"}
+,{"health":"Fair","steward":"None","spc_common":"boxelder","boroname":"Staten Island","count_tree_id":"6"}
+,{"health":"Fair","steward":"None","spc_common":"bur oak","boroname":"Bronx","count_tree_id":"11"}
+,{"health":"Fair","steward":"None","spc_common":"bur oak","boroname":"Brooklyn","count_tree_id":"15"}
+,{"health":"Fair","steward":"None","spc_common":"bur oak","boroname":"Manhattan","count_tree_id":"1"}]
