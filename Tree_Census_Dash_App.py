@@ -18,12 +18,17 @@ import plotly.express as px
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = Dash('App', external_stylesheets=external_stylesheets) 
 
-
 # read in dataset
-data = pd.read_csv("2015_Street_Tree_Census_Data.csv")
+#url = ('https://data.cityofnewyork.us/resource/nwxe-4ae8.json?' +
+       #'&$select=health,steward,spc_common,boroname,count(tree_id)' +
+       #'&$group=health,steward,spc_common,boroname')
 
-# drop na rows from the spc_common subset
+url = 'https://data.cityofnewyork.us/resource/nwxe-4ae8.json?&$select=health,steward,spc_common,boroname'
+
+data = pd.read_json(url)
+
 data = data.dropna(subset = ['spc_common'])
+
 
 #Build a dash app for an arborist studying the health of various tree species (as defined by the variable 'spc_common') accross each borough (defined by the variable 'borough'). This arborist would like to answer the following two questions for each species in each borough.
 
@@ -44,7 +49,7 @@ app.layout = html.Div([
     
     html.H4('Borough'),
     dcc.Dropdown(id='borough',
-                 options = [{'label': idx, 'value': idx} for idx in data['borough'].unique()],
+                 options = [{'label': idx, 'value': idx} for idx in data['boroname'].unique()],
                  value = 'Brooklyn',
                  style={'width':'40'}),
     html.Br(),
@@ -76,6 +81,7 @@ Output(component_id='graph_steward', component_property='figure')],
 
 def update_graph(species, borough):
     
+    
     container_1 = 'Health proportions for {} species in {}.'.format(species,borough)
     
     # create a copy of original data
@@ -84,7 +90,7 @@ def update_graph(species, borough):
     
     # filter the data set for only the selected species and borough
     dff = dff[dff['spc_common']==species]
-    dff = dff[dff['borough']==borough]
+    dff = dff[dff['boroname']==borough]
     
     # create a list of health levels
     health = ['good',' fair','poor']
