@@ -1,0 +1,113 @@
+<html>
+
+<head>
+	<title>Module 5 Exercises</title>
+	<script type="text/javascript"></script>
+        <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+
+<body>
+	<h1>Revers A Word</h1>
+	<h2>Enter a word to see it in reverse</h2>
+
+	<script type="text/javascript">
+
+	function reverse_word()
+	{
+		var word = document.getElementById("word").value;
+		var r = document.getElementById("reversed_word");
+		r.innerHTML = word.split("").reverse().join("").toString()
+	}
+	</script>
+	<p>
+	<form>
+		<input id="word" type="text" size="4">
+		<input type="button" value="reverse" onClick="reverse_word();">
+	</form>
+	</p>
+
+	<div id="reversed_word"></div>
+</body>
+<br>
+
+<body>
+	<h1>Multiple Table</h1>
+	<h2>Enter a number to see its first 20 multiples</h2>
+
+	<script type="text/javascript">
+	function multiples()
+	{	
+		var num = document.getElementById('num').value;
+		
+		var table = '<table>';
+		table += '<tr><td>'+ 1*num + '</td><td>' + 2*num + '</td><td>' + 3*num + '</td><td>' + 4*num + '</td></tr>';
+		table += '<tr><td>' + 5*num + '</td><td>' + 6*num + '</td><td>' + 7*num + '</td><td>' + 8*num + '</td></tr>';
+		table += '<tr><td>' + 9*num + '</td><td>' + 10*num + '</td><td>' + 11*num + '</td><td>' + 12*num + '</td></tr>';
+		table += '<tr><td>' + 13*num + '</td><td>' + 14*num + '</td><td>' + 15*num + '</td><td>' + 16*num + '</td></tr>';
+		table += '<tr><td>' + 17*num + '</td><td>' + 18*num + '</td><td>' + 19*num + '</td><td>' + 20*num + '</td></tr>';
+		table += '</table>';
+
+		var t = document.getElementById('table');
+		t.innerHTML = table;
+		
+	}
+
+	</script>
+
+	<p>
+	<form>
+		<input id="num" type="number" size="4">
+		<input type="button" value="multiple" onClick="multiples();">
+	</form>
+	</p>
+	<div id="table"></div>
+</body>
+<br>
+
+<body>
+		
+		<h1>President Height and Weight</h1>
+		<h2>Enter President Name</h2>
+		
+		<form>
+			<input id="pres_name" type="text"/>
+			<input type="button" value="Search" onclick="update_presidents_table();"/>
+		</form>
+		<br>
+		<div id="presidents_table"></div>
+		
+		<script>
+			d3.csv("https://raw.githubusercontent.com/charleyferrari/CUNY_DATA_608/master/module5/data/presidents.csv").then(function(data){
+				var p_table = "<table id='p_table'><thead><tr><th>Name</th><th>Height</th><th>Weight</th></tr></thead>";
+				data.forEach(function(pres) {
+					p_table += "<tr><td>" + pres['Name'] + '</td><td>' + pres['Height'] + '</td><td>' + pres['Weight'] + '</td></tr>';
+				});
+				$('#presidents_table').html(p_table + '</table>');
+			});			
+		</script>
+
+		<script>
+		
+			function update_presidents_table()
+			{
+				var value = document.getElementById("pres_name").value;
+				d3.csv("https://raw.githubusercontent.com/charleyferrari/CUNY_DATA_608/master/module5/data/presidents.csv").then(function(data){
+					var p_table = "<table id='p_table'><thead><tr><th>Name</th><th>Height</th><th>Weight</th></tr></thead>";
+					data.forEach(function(pres) {
+						if(pres['Name'].toLowerCase().includes(value.toLowerCase()))
+						{
+							p_table += "<tr><td>" + pres['Name'] + '</td><td>' + pres['Height'] + '</td><td>' + pres['Weight'] + '</td></tr>';
+						}
+					});
+					$('#presidents_table').html(p_table + '</table>');
+				});
+			}
+			
+		</script>
+		
+	</body>
+
+</html>
